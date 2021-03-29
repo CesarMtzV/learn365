@@ -1,4 +1,4 @@
-# Intro de Windows - TryHackMe
+# Intro to Windows - TryHackMe
 ___
 Index | Topic
 --- | ---
