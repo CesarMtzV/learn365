@@ -6,3 +6,4 @@ ___
 Day | Topic
 --- | ---
 **1** | [Wireshark 101 - TryHackMe](/days/day1.md)
+**2** | [Intro to Windows - TryHackMe](/days/day2.md)
