@@ -1,7 +1,4 @@
 # Wireshark 101 - TryHackMe
-
-This repository contains my learning path in the Learn 365 challenge, which consists in keep learning something for 365 days. The main topics are Cybersecurity and Web Dev, but sometimes I'll focus on something different to change things up.
-
 ___
 Index | Topic
 --- | ---
