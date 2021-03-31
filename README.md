@@ -8,3 +8,4 @@ Day | Topic
 **1** | [Wireshark 101 - TryHackMe](/days/day1.md)
 **2** | [Intro to Windows - TryHackMe](/days/day2.md)
 **3** | [Docker](/days/day3.md)
+**4** | [Hacking WiFi with Wifite](/days/day4.md)
