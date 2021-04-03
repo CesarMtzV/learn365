@@ -10,3 +10,4 @@ Day | Topic
 **3** | [Docker](/days/day3.md)
 **4** | [Hacking WiFi with Wifite](/days/day4.md)
 **5** | [API](/days/day5.md)
+**6** | [Zero Logon - TryHackMe](/days/day6.md)
