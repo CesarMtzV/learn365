@@ -11,3 +11,4 @@ Day | Topic
 **4** | [Hacking WiFi with Wifite](/days/day4.md)
 **5** | [API](/days/day5.md)
 **6** | [Zero Logon - TryHackMe](/days/day6.md)
+**7** | [Active Directory](/days/day7.md)
