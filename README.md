@@ -12,3 +12,4 @@ Day | Topic
 **5** | [API](/days/day5.md)
 **6** | [Zero Logon - TryHackMe](/days/day6.md)
 **7** | [Active Directory](/days/day7.md)
+**8** | [Hydra](/days/day8.md)
