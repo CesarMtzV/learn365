@@ -13,3 +13,4 @@ Day | Topic
 **6** | [Zero Logon - TryHackMe](/days/day6.md)
 **7** | [Active Directory](/days/day7.md)
 **8** | [Hydra](/days/day8.md)
+**9** | [Upgrading shell to meterpreter](/days/day9.md)
