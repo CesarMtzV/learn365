@@ -17,3 +17,4 @@ Day | Topic
 **10** | [Intro to ISAC - TryHackMe](/days/day10.md)
 **11** | [OpenVAS - TryHackMe](/days/day11.md)
 **12** | [Yara - TryHackMe](/days/day12.md)
+**13** | [Nmap - SMB Enumeration](/days/day13.md)
