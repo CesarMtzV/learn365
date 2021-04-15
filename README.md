@@ -22,3 +22,4 @@ Day | Topic
 **15** | [Cracking WiFi WPA2 Hanshake](/days/day15.md)
 **16** | [Kerberos](/days/day16.md)
 **17** | [Sockets in C](/days/day17.md)
+**18** | [Nmap - MySQL Enumeration](/days/day18.md)
