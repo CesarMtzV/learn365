@@ -24,4 +24,5 @@ Day | Topic
 **17** | [Kerberos](/days/day17.md)
 **18** | [Signals in C](/days/day18.md)
 **19** | [Nmap - MySQL Enumeration](/days/day19.md)
-**20** | [OAuth 2.0 authentication vulnerabilites](/days/day20.md)
+**20** | [OAuth 2.0](/days/day20.md)
+**21** | [OAuth 2.0 vulnerabilites](/days/day20.md)
